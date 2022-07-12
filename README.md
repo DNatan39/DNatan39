@@ -19,11 +19,11 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
 *Sorry, i can do nothing for you.*
 
 **Qu'est-ce que j'aime dans la vie ?**
-  - [♥] Les Mangas et les Animés.
-  - [♥] le Développement Web.
-  - [♥] L'espace, l'univers, l'astologies.
-  - [♥] La Nature.
-  - [♥] Et de temps en temps lire*
+  - [N] Les Mangas et les Animés.
+  - [A] le Développement Web.
+  - [T] L'espace, l'univers, l'astologies.
+  - [A] La Nature.
+  - [N] Et de temps en temps lire*
   ``` 
   Message: Hier est l'histoire, demain est un mystère, mais aujourd'hui est un cadeau. 
   C'est pourquoi on l'appelle le présent..
