@@ -33,7 +33,7 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
 
 ## Et alors c'est quoi Développeur Web finalement ?
 
-***_Le métier Développeur Web est un métier qui permet de concevoir des sites internets pour des clients, en utilisant plusieurs types de languages._***<br/>
+***_Le métier Développeur Web est un métier qui permet de concevoirs des sites Internet pour des clients, en utilisant plusieurs types de languages._***<br/>
 
 
 ## Mes réseaux sociaux
