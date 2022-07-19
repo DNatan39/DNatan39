@@ -14,7 +14,7 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
 **- J'ai fait Future Dev c'est une préqualification avec la formation..**<br>
 **- Ensuite j'ai fait Access Code School à Onlineformapro de Lons-le-Saunier.**
 
-<img align="right" width= "60%" alt="GIF" src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"></img>
+<img align="right" width= "55%" alt="GIF" src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"></img>
 
 *Sorry, i can do nothing for you.*
 
@@ -23,8 +23,8 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
   - [♥] le Développement Web.
   - [♥] L'espace, l'univers, l'astologies.
   - [♥] La Nature.
-  - [♥] Et de temps en temps lire*
-  ``` 
+  - [♥] Et de temps en temps lire.
+  ```
   Message: Hier est l'histoire, demain est un mystère, mais aujourd'hui est un cadeau. 
   C'est pourquoi on l'appelle le présent..
   ```
