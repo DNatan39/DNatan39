@@ -3,7 +3,7 @@
 ## Je vis à Lons-le-Saunier dans le Jura et je suis développeur web.
 
 <p align="center">
-  <img align="left" width="40%" alt="GIF" src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif"/>
+  <img align="left" width="30%" alt="GIF" src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif"/>
 </p>
 
 ### Pourquoi développeur web ?
