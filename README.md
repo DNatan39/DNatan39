@@ -1,3 +1,5 @@
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
 ### Hello, Je suis Natan DAVID
 
 ## Je vis à Lons-le-Saunier dans le Jura et je suis développeur web.
