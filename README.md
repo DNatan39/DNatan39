@@ -1,11 +1,9 @@
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
-
 ### Hello, Je suis Natan DAVID
 
 ## Je vis à Lons-le-Saunier dans le Jura et je suis développeur web.
 
 <p align="center">
-  <img align="left" width="30%" alt="GIF" src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif"/>
+  <img align="left" width="24%" alt="GIF" src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif"/>
 </p>
 
 ### Pourquoi développeur web ?
@@ -16,8 +14,7 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
 **- J'ai fait Future Dev c'est une préqualification avec la formation..**<br>
 **- Ensuite j'ai fait Access Code School à Onlineformapro de Lons-le-Saunier.**
 
-<img align="right" width= "40%" alt="GIF" src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"></img>
-
+<img align="right" width= "30%" alt="GIF" src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"></img>
 *Sorry, i can do nothing for you.*
 
 **Qu'est-ce que j'aime dans la vie ?**
