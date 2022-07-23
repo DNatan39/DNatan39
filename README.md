@@ -2,9 +2,8 @@
 
 ## Je vis à Lons-le-Saunier dans le Jura et je suis développeur web.
 
-<p align="center">
-  <img align="left" width="30%" alt="GIF" src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif"/>
-</p>
+
+ <img align="left" width="24%" alt="GIF" src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif"></img>
 
 ### Pourquoi développeur web ?
 
@@ -15,6 +14,8 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
 **- Ensuite j'ai fait Access Code School à Onlineformapro de Lons-le-Saunier.**
 
 <img align="right" width= "30%" alt="GIF" src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"></img>
+
+
 
 **Qu'est-ce que j'aime dans la vie ?**
   - [♥] Les Mangas et les Animés.
