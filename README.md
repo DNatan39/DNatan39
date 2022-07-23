@@ -15,7 +15,6 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
 **- Ensuite j'ai fait Access Code School à Onlineformapro de Lons-le-Saunier.**
 
 <img align="right" width= "30%" alt="GIF" src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"></img>
-*Sorry, i can do nothing for you.*
 
 **Qu'est-ce que j'aime dans la vie ?**
   - [♥] Les Mangas et les Animés.
