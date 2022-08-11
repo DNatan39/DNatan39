@@ -1,9 +1,9 @@
 ### Hello, Je suis Natan DAVID
 
 ## Je vis à Lons-le-Saunier dans le Jura et je suis développeur web.
+<img align="left" width="24%" alt="GIF" src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif"></img>
 
-
- <img align="left" width="24%" alt="GIF" src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif"></img>
+ 
 
 ### Pourquoi développeur web ?
 
@@ -12,6 +12,7 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
 ### Etude ?
 **- J'ai fait Future Dev c'est une préqualification avec la formation..**<br>
 **- Ensuite j'ai fait Access Code School à Onlineformapro de Lons-le-Saunier.**
+
 
 <img align="right" width= "30%" alt="GIF" src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"></img>
 
