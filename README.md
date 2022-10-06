@@ -1,7 +1,7 @@
 ### Hello, Je suis Natan DAVID
 
 ## Je vis à Lons-le-Saunier dans le Jura et je suis développeur web.
-<img align="left" width="24%" alt="GIF" src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif"></img>
+
 
  
 
@@ -24,16 +24,12 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
   - [♥] L'espace, l'univers, l'astologies.
   - [♥] La Nature.
   - [♥] Et de temps en temps lire.
-  ```
-  Message: Hier est l'histoire, demain est un mystère, mais aujourd'hui est un cadeau. 
-  C'est pourquoi on l'appelle le présent..
-  ```
 
 &nbsp;
 
 ## Et alors c'est quoi Développeur Web finalement ?
 
-***_Le métier Développeur Web est un métier qui permet de concevoirs des sites Internet pour des clients, en utilisant plusieurs types de languages._***<br/>
+***_Le métier Développeur Web est un métier qui permet de concevoirs des sites Internet pour des clients, en utilisant plusieurs types de languages de programmation._***<br/>
 
 
 ## Mes réseaux sociaux
