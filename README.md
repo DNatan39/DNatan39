@@ -47,5 +47,5 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
   </a>
 </p>
 <p>
-   <img align="center" width="100%" src="https://images.pexels.com/photos/684441/pexels-photo-684441.jpeg?auto=compress&cs=tinysrgb&w=1600"/>
+   <img align="center" width="50%" src="https://images.pexels.com/photos/684441/pexels-photo-684441.jpeg?auto=compress&cs=tinysrgb&w=1600"/>
  </p>
