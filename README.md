@@ -46,6 +46,3 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
     <img alt="Instagram Natan DAVID" width="50px" height="50px" src="https://media.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" />
   </a>
 </p>
-<p>
-   <img align="center" width="50%" src="https://images.pexels.com/photos/684441/pexels-photo-684441.jpeg?auto=compress&cs=tinysrgb&w=1600"/>
- </p>
