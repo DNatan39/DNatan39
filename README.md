@@ -9,7 +9,7 @@
 
 J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui est lui même Développeur Web et j'en ai parlé avec ma conseillière Pole Emploi, oui j'étais à Pole Emploi mais grâce à ça j'ai pu rejoindre une formation me proposant d'être Développeur Web.
 
-### Etude ?
+### Étude ?
 **- J'ai fait Future Dev c'est une préqualification avec la formation..**<br>
 **- Ensuite j'ai fait Access Code School à Onlineformapro de Lons-le-Saunier.**
 
@@ -47,5 +47,5 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
   </a>
 </p>
 <p>
-   <img align="center" width="100%" src="https://images5.alphacoders.com/112/1123697.jpg"/>
+   <img align="center" width="100%" src="https://images.pexels.com/photos/684441/pexels-photo-684441.jpeg?auto=compress&cs=tinysrgb&w=1600"/>
  </p>
