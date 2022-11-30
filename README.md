@@ -21,7 +21,7 @@ J'ai rapidement été attiré par le développement web avec l'aide d'un ami qui
 **Qu'est-ce que j'aime dans la vie ?**
   - [♥] Les Mangas et les Animés.
   - [♥] le Développement Web.
-  - [♥] L'espace, l'univers, l'astologies.
+  - [♥] L'espace, l'univers, l'astrologie.
   - [♥] La Nature.
   - [♥] Et de temps en temps lire.
 
