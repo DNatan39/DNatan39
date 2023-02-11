@@ -1,6 +1,6 @@
 # Hello, Je suis Natan DAVID
 
-## Je vis à Lons-le-Saunier dans le Jura et je suis développeur web junior.
+## Je vis à Lons-le-Saunier dans le Jura. Je suis Développeur Web et Web Mobile junior.
 
 
  
